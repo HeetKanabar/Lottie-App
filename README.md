@@ -8,3 +8,5 @@ output :-
 ![image](https://github.com/HeetKanabar/Lottie-App/assets/83835078/1e6196f6-5080-4765-bc26-21566a8920af)
 
 Bolg :- 
+
+https://medium.com/@heetkanabar/how-to-play-beautiful-lottie-animations-in-android-jetpack-compose-baab1bcd38f9
